@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejmahadiair&label=Profile%20views&color=0e75b6&style=flat" alt="ejmahadiair" /> </p>
 
 - 🔭 React/Node.js Developer.
-- 🌱 I’m currently learning **Dot-net**
+- 🌱 Always learning **Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ejmahadiair](https://github.com/ejmahadiair)
 
